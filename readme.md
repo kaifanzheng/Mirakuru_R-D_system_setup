@@ -256,6 +256,9 @@ systemctl status cloudflared-tunnel
 * Logs tell the truth, not dashboards
 * DNS is always the real gatekeeper
 
+for arduino script:
+https://chatgpt.com/s/t_697d5bcfb6588191adc09e7641bce629
+
 ---
 
 **This setup now feels boring — which means it’s correct.**
